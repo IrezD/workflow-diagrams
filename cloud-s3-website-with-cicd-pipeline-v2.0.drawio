@@ -1,0 +1,138 @@
+<mxfile host="app.diagrams.net" modified="2023-12-13T21:17:52.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oP9fAPKiORNiGJ0mgM7_" version="22.1.8" type="github">
+  <diagram name="Page-1" id="BLeY4aLAC0U9kCGDIPzT">
+    <mxGraphModel dx="1434" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-1" value="Developer" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FFD966;gradientColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="335" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="69v9tuPCCNIXZ4btn9kC-1" vertex="1">
+          <mxGeometry x="32.5" y="36" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-2" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="381" as="sourcePoint" />
+            <mxPoint x="141" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="141" y="381" />
+              <mxPoint x="141" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-3" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="381.00000000000045" as="sourcePoint" />
+            <mxPoint x="141" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="141" y="381.00000000000045" />
+              <mxPoint x="141" y="531.0000000000005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-6" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-7" value="Pull Request" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="69v9tuPCCNIXZ4btn9kC-6" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-8" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="560" as="sourcePoint" />
+            <mxPoint x="240" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-9" value="Push" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="69v9tuPCCNIXZ4btn9kC-8" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-13" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="235" y="180" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="69v9tuPCCNIXZ4btn9kC-13" vertex="1">
+          <mxGeometry x="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-12" value="Git code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="69v9tuPCCNIXZ4btn9kC-13" vertex="1">
+          <mxGeometry y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="236" y="536" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" parent="69v9tuPCCNIXZ4btn9kC-14" vertex="1">
+          <mxGeometry x="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-16" value="Git code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="69v9tuPCCNIXZ4btn9kC-14" vertex="1">
+          <mxGeometry y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="195" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-25" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="307" y="184" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png;fillColor=#24292e;" parent="69v9tuPCCNIXZ4btn9kC-25" vertex="1">
+          <mxGeometry x="9" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-23" value="Git Action" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="69v9tuPCCNIXZ4btn9kC-25" vertex="1">
+          <mxGeometry y="26" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-24" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#24292e;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.git_repository;rotation=0;" parent="69v9tuPCCNIXZ4btn9kC-25" vertex="1">
+          <mxGeometry x="33" y="6" width="20" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-30" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="555" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-31" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="307" y="540" width="53" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Github-128.png;fillColor=#24292e;" parent="69v9tuPCCNIXZ4btn9kC-31" vertex="1">
+          <mxGeometry x="9" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-33" value="Git Action" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="69v9tuPCCNIXZ4btn9kC-31" vertex="1">
+          <mxGeometry y="26" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-34" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#24292e;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.git_repository;rotation=0;" parent="69v9tuPCCNIXZ4btn9kC-31" vertex="1">
+          <mxGeometry x="33" y="6" width="20" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-40" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="366" y="195" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-41" value="" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="388" y="188.75" width="50" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-42" value="OIDC Auth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="388" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-45" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="195" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-46" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" parent="1" vertex="1">
+          <mxGeometry x="480" y="165" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-47" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/security/identity_provider.svg;" parent="1" vertex="1">
+          <mxGeometry x="500" y="175" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-48" value="Identity Provider" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="490" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-forward-128.png" parent="1" vertex="1">
+          <mxGeometry x="556" y="182" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-56" value="" style="outlineConnect=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#FFB340;strokeColor=#1A1A1A;strokeWidth=15;" parent="1" vertex="1">
+          <mxGeometry x="480" y="139" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-57" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" parent="1" vertex="1">
+          <mxGeometry x="593.97" y="180.64" width="52.05" height="29.36" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-58" value="IAM Role" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="590" y="207" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="69v9tuPCCNIXZ4btn9kC-59" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="392.5" y="240" width="127.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
