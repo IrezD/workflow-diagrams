@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T17:39:59.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pOzd1q_3K_WayKRUxiJt" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T17:42:52.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x6iY2kIOvupECqEmQ5Bf" version="22.1.11" type="github">
   <diagram name="Page-1" id="BLeY4aLAC0U9kCGDIPzT">
-    <mxGraphModel dx="2049" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,9 +404,6 @@
         </mxCell>
         <mxCell id="r9LMJHCtlm2r7x0iu7sK-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;strokeColor=#000000;align=center;fontFamily=Helvetica;fontSize=12;fillColor=#59E825;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="830.25" y="585.19" width="22.75" height="23.25" as="geometry" />
-        </mxCell>
-        <mxCell id="X5nsY6iGLnSVTPiqeF46-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X5nsY6iGLnSVTPiqeF46-2" value="https://github.com/IrezD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#B0B0B0;" vertex="1" parent="1">
           <mxGeometry x="776.63" y="750" width="60" height="30" as="geometry" />
